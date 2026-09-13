@@ -235,7 +235,7 @@ class Spider(Spider):
 
         possible_dirs = [
             self.base_dir,
-            "https://raw.githubusercontent.com/KAN314go/NoMoreWalls/refs/heads/master/.github/workflows/ublive.py",
+            "https://raw.githubusercontent.com/KAN314go/NoMoreWalls/refs/heads/master/.github/workflows/",
             "https://raw.githubusercontent.com/KAN314go/NoMoreWalls/refs/heads/master/snippets/"
         ]
 
